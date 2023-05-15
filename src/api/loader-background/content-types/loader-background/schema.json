@@ -1,0 +1,25 @@
+{
+  "kind": "singleType",
+  "collectionName": "loader_backgrounds",
+  "info": {
+    "singularName": "loader-background",
+    "pluralName": "loader-backgrounds",
+    "displayName": "LoaderBackground"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "media": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}

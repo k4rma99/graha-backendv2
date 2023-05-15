@@ -1,0 +1,33 @@
+{
+  "kind": "singleType",
+  "collectionName": "about_uses",
+  "info": {
+    "singularName": "about-us",
+    "pluralName": "about-uses",
+    "displayName": "AboutUs"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "aboutPara1": {
+      "type": "richtext"
+    },
+    "aboutPara2": {
+      "type": "richtext"
+    },
+    "aboutPara3": {
+      "type": "richtext"
+    },
+    "aboutPara4": {
+      "type": "richtext"
+    },
+    "teamList": {
+      "type": "richtext"
+    },
+    "associates": {
+      "type": "richtext"
+    }
+  }
+}

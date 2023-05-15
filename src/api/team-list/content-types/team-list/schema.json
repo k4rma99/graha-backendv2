@@ -1,0 +1,21 @@
+{
+  "kind": "singleType",
+  "collectionName": "team_lists",
+  "info": {
+    "singularName": "team-list",
+    "pluralName": "team-lists",
+    "displayName": "Team List"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "teamList": {
+      "type": "richtext"
+    },
+    "associates": {
+      "type": "richtext"
+    }
+  }
+}
